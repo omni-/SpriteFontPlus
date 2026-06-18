@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net48</TargetFrameworks>
+    <TargetFrameworks>net10.0</TargetFrameworks>
     <PackageId>SpriteFontPlus.FNA</PackageId>
     <AssemblyName>SpriteFontPlus.FNA</AssemblyName>
     <DefineConstants>$(DefineConstants);FNA</DefineConstants>
